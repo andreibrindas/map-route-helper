@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Example Household 1",
+    "address": "City, Street Name, building/apt details",
+    "coordinates": {
+      "latitude": 46.18,
+      "longitude": 21.33
+    },
+    "contact": "Contact name"
+  },
+  {
+    "name": "Example Household 2",
+    "address": "Another address description",
+    "coordinates": {
+      "latitude": 46.185,
+      "longitude": 21.34
+    },
+    "contact": "Contact name"
+  },
+  {
+    "name": "Example Household 3",
+    "address": "Another address description",
+    "coordinates": {
+      "latitude": 46.19,
+      "longitude": 21.35
+    },
+    "contact": "Contact name"
+  }
+]
